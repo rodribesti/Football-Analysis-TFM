@@ -1,0 +1,7 @@
+
+ejecución escript:
+
+cd C:\Users\Usuario\Desktop\TFM\scripts
+dir
+
+python monitor_folder.py

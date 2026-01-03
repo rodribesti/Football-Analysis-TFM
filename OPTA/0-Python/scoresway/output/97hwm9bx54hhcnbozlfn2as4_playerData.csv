@@ -1,0 +1,39 @@
+field_position;playerId;value_TeamPlayerFormation;shirtNo;value_TeamFormation;teamId;matchId;field;isFirstEleven;position;playerName;subbedOutPlayerId;subbedInExpandedMinute;subbedInPeriod_value;subbedInPlayerId;subbedOutExpandedMinute;subbedOutPeriod_value
+1;opnutov04c33y3gq2fjpkaac;1;73;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;GK;J. Gunn;;;;;;
+2;dbyiafdyf93b8rtpceqitgopg;2;30;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;DR;D. McIntosh;;;;;;
+2;bzv3yqbc7ttf7fftbm2nelxck;3;32;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;DC;M. Fry;;;;;;
+3;c8wq3ofarkeeisqr49fhrvwno;4;35;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;MC;C. Oliveira;;;;5adul4r3hifu5x4tv8efr05ey;77,0;2,0
+2;ahgclh3e05evznhrpa32z6g6i;5;5;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;DL;V. Souza;;;;9a5pacvk3wisje1491zslwkr8;73,0;2,0
+2;357vd87hv0jvljqtt2qf4vmz8;6;43;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;DC;S. Suárez;;;;;;
+3;5e00w1rqym73habcl01wm7jtg;7;7;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;MC;O. Escobar;;;;;;
+3;et772m1f5cqceeffckpnty1p0;8;31;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;MC;E. Klein;;;;;;
+4;d043ppr554ym2j2xf3fcmbqsq;9;9;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;FW;L. Butts;;;;6han4f5xq1d0ii0ol2drgi4bu;73,0;2,0
+4;9u37akzkhdyszhevgrjghq99m;10;14;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;FWR;A. Monis;;;;anysxg2z6niqapc5m3f4tzims;77,0;2,0
+4;69ypla76c710iv0yegix1maz8;11;39;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;FWL;Marcos Dias;;;;;;
+5;5adul4r3hifu5x4tv8efr05ey;0;13;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;Sub;Maciel;c8wq3ofarkeeisqr49fhrvwno;77,0;2,0;;;
+5;6j4ibkpbos6w5ikle58u2vo;0;27;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;Sub;;;;;;;
+5;dc8u2bssrhxycx8vtn0kutp4a;0;41;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;Sub;;;;;;;
+5;anysxg2z6niqapc5m3f4tzims;0;16;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;Sub;J. Bolma;9u37akzkhdyszhevgrjghq99m;77,0;2,0;;;
+5;40qi53orb0eur2jevowkvrcb8;0;17;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;Sub;;;;;;;
+5;6han4f5xq1d0ii0ol2drgi4bu;0;11;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;Sub;G. Diarbian;d043ppr554ym2j2xf3fcmbqsq;73,0;2,0;;;
+5;c1z6mxuhvuegd4c5b3hau93ze;0;42;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;Sub;;;;;;;
+5;9a5pacvk3wisje1491zslwkr8;0;88;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;Sub;S. Kinner;ahgclh3e05evznhrpa32z6g6i;73,0;2,0;;;
+5;853mqqlenq3yctucs92vfieqc;0;50;4;csntc7hucmo21gknxc5y0kc4q;97hwm9bx54hhcnbozlfn2as4;home;1;Sub;;;;;;;
+1;7jaa504py8qcx30a2p1vgn8d0;1;15;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;J. Antoine;;;;;;
+3;6zuton58biybp7ge3mpc17alm;2;18;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;Kwak Min-jae;;;;2d3dwhrtafkd1b8q1nzerqew9;84,0;2,0
+3;1h5rgsol19v1pcl5ksstrv9t6;3;22;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;M. Garvanian;;;;;;
+2;cpbyoj822ivx6qrqbkun1zr3d;4;5;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;A. Prepeliţă;;;;;;
+2;87nhafgkozygrd5f06ore0xzo;5;14;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;F. Sar-Sar;;;;;;
+2;7e8xkqlux0myjc5cwtb7rega1;6;20;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;D. Viáfara;;;;;;
+3;at2xv960peboe9spoag2kn21g;7;33;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;A. McGrath;;;;;;
+3;4cwccglaxz5sf71eptnj6kzfu;8;8;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;A. Jiménez;;;;;;
+4;a3eln6gas8765a3pn6ecqjvxm;9;9;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;M. Ouamri;;;;;;
+4;4hdai9za2ls03tjpcw0ahu5wq;10;11;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;T. Gray;;;;;;
+3;5m8hxfvza21t4wfe6v0a18etw;11;10;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;L. García;;;;adfocor2tbcmxo03ednm8vywa;45,0;2,0
+5;ew3qxbn1ev1qv7wi0iwoc642c;0;32;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;;;;;;;
+5;adfocor2tbcmxo03ednm8vywa;0;58;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;J. Ibarra;5m8hxfvza21t4wfe6v0a18etw;45,0;2,0;;;
+5;82uh6ad46fvub9b0vfapw2vze;0;71;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;;;;;;;
+5;2d3dwhrtafkd1b8q1nzerqew9;0;3;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;J. Pérez;6zuton58biybp7ge3mpc17alm;84,0;2,0;;;
+5;6zbb5xiauoixj3clxdgud8lxw;0;6;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;;;;;;;
+5;exunlng0cgo9bpqh4x6jpxyax;0;23;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;;;;;;;
+5;b4te1cxogvhtglhug3sdgkmei;0;25;19;cwnjxlibb02fuh0vwgvac6h45;97hwm9bx54hhcnbozlfn2as4;away;1;;;;;;;;

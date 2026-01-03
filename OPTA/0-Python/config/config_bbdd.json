@@ -1,0 +1,15 @@
+{
+  "db_TFM": {
+    "host": "server-rodrigo.database.windows.net",
+    "port": 1433,
+    "database": "bbdd_TFM",
+    "user": "rodrigo",
+    "password":"79341353rR?",
+    "driver": "ODBC Driver 18 for SQL Server"
+    },
+"wyscout": {
+	"web": "https://wyscout.hudl.com/app/",
+      "user": "wyscout@afecfa.es",
+      "password": "xxxx"
+	}
+  }
